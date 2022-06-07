@@ -1,3 +1,3 @@
-# Olá visitante, seja bem-vindo ao meu repositório do primeiro desafio
+# Olá visitante :wave:, seja bem-vindo ao meu repositório do primeiro desafio
 
-- Linkedin : https://www.linkedin.com/in/jos%C3%A9-lisboa-3316301a2/ :wave:
+- Linkedin : https://www.linkedin.com/in/jos%C3%A9-lisboa-3316301a2/
